@@ -1,0 +1,40 @@
+.HeaderPageT1 .logo {
+	position: absolute;
+	background: url('images/logo.png') no-repeat 4px 0px;
+	left: 0;
+	height: 70px;
+	width: 290px;
+}
+
+.HeaderPageT1 .desc {
+	position: absolute;
+	text-decoration: none;
+	text-shadow: 3px 3px 8px #999;
+	color: #456;
+	font-size: 18pt;
+	font-weight: bold;
+	line-height: 360%;
+	left: 280px;
+}
+
+.HeaderPageT1 .bar {
+	position: absolute;
+	font-size: 9.5pt;
+	top: 6px;
+	right: 20px;
+}
+
+.HeaderPageT1 .bar * {
+	color: #444;
+}
+
+.HeaderPageT1 .photo_icon {
+	margin-right: 6px;
+	width: 32px;
+	height: 32px;
+}
+
+.FooterPageT1 {
+	text-align: center;
+	padding-top: 4px;
+}

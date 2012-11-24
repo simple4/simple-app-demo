@@ -1,0 +1,9 @@
+.HeaderPageT2 .logo {
+	background: url('images/logo.png') no-repeat 0 0;
+	float: left;
+	margin: 4px 8px 0 4px;
+	height: 70px;
+	width: 290px;
+}
+
+

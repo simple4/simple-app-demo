@@ -1,0 +1,13 @@
+
+<div class="FooterPageT1">
+  <div>
+    #(FooterPage.0) <a target="_blank" href="http://simpleframework.net">http://simpleframework.net</a>
+    [ <span id="pageload_time_id" style="color: red;">0</span>&nbsp;s ]
+  </div>
+</div>
+<script type="text/javascript">
+  $ready(function() {
+    $("pageload_time_id").innerHTML = 
+      document.getCookie("${MVCFilter.PAGELOAD_TIME}");
+  });
+</script>

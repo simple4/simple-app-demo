@@ -1,0 +1,27 @@
+.LoginPage {
+	margin-top: 60px;
+	background: url(images/login_bg.jpg) no-repeat 0 0;
+	width: 967px;
+	height: 500px;
+	border: 2px solid #444;
+	-webkit-box-shadow: 0px 0px 20px #666;
+	-moz-box-shadow: 0px 0px 20px #666;
+	box-shadow: 0px 0px 20px #666;
+}
+
+#default_m_login {
+	margin: 280px 40px 0 0;
+	width: 270px;
+	float: right;
+}
+
+#default_m_login label {
+	color: #fff;
+}
+
+#default_m_login #_accountName,
+#default_m_login #_passwordName {
+	border: 1px solid #666;
+	height: 22px;
+	line-height: 22px;
+}
